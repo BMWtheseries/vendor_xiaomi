@@ -308,7 +308,6 @@ PRODUCT_PACKAGES += \
     libmialgo_utils \
     libmialgoengine \
     libmibokeh_712 \
-    libmpbase \
     libmulticam_image_optical_zoom \
     libmulticam_video_optical_zoom \
     libnotifyaudiohal \
